@@ -8,27 +8,7 @@ An AI-powered (multi-shot prompting) chatbot that acts as a helpful clothing sto
 - **Multi-shot Prompting**: Uses contextual prompting to maintain consistent behavior as a clothing store assistant
 - **Real-time Streaming**: Responses are streamed in real-time for a smooth user experience
 - **Product Recommendations**: Actively promotes items on sale with specific discounts
-- **Wide Product Range**: Covers adult and kids clothing including hats, trousers, jackets, shirts, and more
 
-## Product Catalog & Discounts
-
-The assistant promotes the following items with current discounts:
-
-### Hats (60% off)
-- Classic Hat: $12
-- Wool Beanie: $10
-
-### Other Items (50% off)
-- Signature Trousers: $20
-- Denim Jacket: $35
-- Striped Shirt: $15
-- Casual Hoodie: $25
-- Summer Dress: $22
-
-### Kids Clothing (50% off)
-- Kids T-Shirt: $8
-- Kids Jeans: $14
-- Kids Hoodie: $16
 
 ## Requirements
 
