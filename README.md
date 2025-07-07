@@ -1,6 +1,6 @@
-# AI Clothing Store Assistant
+# AI Clothing Store Assistant Chatbot
 
-An AI-powered chatbot that acts as a helpful clothing store assistant, built with Google's Gemini AI model and Gradio for the web interface.
+An AI-powered (multi-shot prompting) chatbot that acts as a helpful clothing store assistant, built with Google's Gemini AI model and Gradio for the web interface.
 
 ## Features
 
